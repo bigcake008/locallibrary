@@ -1,0 +1,76 @@
+
+> locallibrary@0.0.0 devstart /Users/sujane/Desktop/test/locallibrary
+> nodemon ./bin/www
+
+[33m[nodemon] 1.18.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[0mGET /catalog/books [32m200 [0m422.300 ms - 1969[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.275 ms - -[0m
+[0mGET /catalog/authors [36m304 [0m1.027 ms - -[0m
+[0mGET /catalog/books [36m304 [0m57.500 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.366 ms - -[0m
+[0mGET /catalog [36m304 [0m52.866 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.449 ms - -[0m
+[0mGET /catalog/books [36m304 [0m33.526 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.298 ms - -[0m
+[0mGET /catalog [36m304 [0m44.336 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.253 ms - -[0m
+[0mGET /catalog/books [36m304 [0m29.373 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.330 ms - -[0m
+[0mGET /catalog/book/5c8f89bac510c514feab02af [36m304 [0m0.751 ms - -[0m
+[0mGET /catalog/book/5c8f89bac510c514feab02b0 [32m200 [0m0.348 ms - 54[0m
+[0mGET /favicon.ico [33m404 [0m18.312 ms - 2923[0m
+[0mGET /catalog/book/5c8f89bac510c514feab02af [36m304 [0m0.512 ms - -[0m
+[0mGET /catalog/book/5c8f89bac510c514feab02b2 [32m200 [0m0.395 ms - 54[0m
+[0mGET /favicon.ico [33m404 [0m24.851 ms - 2923[0m
+[0mGET /catalog/books [32m200 [0m47.635 ms - 1962[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.410 ms - -[0m
+[0mGET /catalog/book/5c8f89bac510c514feab02af [36m304 [0m0.443 ms - -[0m
+[0mGET /catalog/books [32m200 [0m28.228 ms - 1962[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.308 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[0mGET /catalog/books [32m200 [0m324.270 ms - 1962[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.199 ms - -[0m
+[0mGET /catalog/bookinstances [32m200 [0m60.621 ms - 3739[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.511 ms - -[0m
+[0mGET /catalog/bookinstance/5c8f89bac510c514feab02b7 [32m200 [0m0.665 ms - 62[0m
+[0mGET /favicon.ico [33m404 [0m29.455 ms - 2923[0m
+[0mGET /catalog/books [36m304 [0m29.183 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.353 ms - -[0m
+[0mGET /catalog/book/5c8f89bac510c514feab02af [36m304 [0m0.781 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[0mGET /catalog [36m304 [0m278.433 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.250 ms - -[0m
+[0mGET /catalog/books [36m304 [0m52.550 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.703 ms - -[0m
+[0mGET /catalog/books [32m200 [0m52.928 ms - 1962[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.472 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[0mGET /catalog/books [36m304 [0m284.172 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.208 ms - -[0m
+[0mGET /catalog [36m304 [0m52.666 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.341 ms - -[0m
+[0mGET /catalog/books [36m304 [0m28.697 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.232 ms - -[0m
+[0mGET /catalog/books [32m200 [0m75.766 ms - 1962[0m
+[0mGET /stylesheets/style.css [32m200 [0m4.486 ms - 182[0m
+[0mGET /catalog/bookinstances [36m304 [0m55.321 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.326 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[0mGET /catalog/bookinstances [31m500 [0m956.578 ms - 3725[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.690 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
